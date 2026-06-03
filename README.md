@@ -47,13 +47,3 @@ The environment is set up for common scientific Python and sklearn workflows, in
 - jupyterlab
 - ipykernel
 
-## Next Steps
-
-Likely follow-up additions for this repo include:
-
-- A data loading and cleaning pipeline
-- Baseline model training notebooks or scripts
-- Evaluation metrics and plots
-- Model persistence and inference utilities
-- Uncertainty estimation and calibration experiments
-
