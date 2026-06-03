@@ -2,7 +2,7 @@
 
 AtomUQ is a small machine learning workspace for predicting ligand-to-metal binding affinity in support of downstream decision-making for rare earth materials recycling.
 
-This is part of a UQ Incubator workshop at the University of Michigan, Ann Arbor, during May 31 - June 3, 2026.
+This is a part of the UQ Incubator workshop at the University of Michigan, Ann Arbor, from May 31 to June 3, 2026.
 
 The immediate goal is to build sklearn-based models that estimate whether a ligand is likely to bind strongly to a target metal, then use those predictions to rank candidate ligands and support screening decisions. The longer-term goal is to pair the affinity model with uncertainty estimates so model outputs are easier to trust in a resource-constrained recycling workflow.
 
