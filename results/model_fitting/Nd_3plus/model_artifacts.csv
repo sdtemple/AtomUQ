@@ -1,0 +1,6 @@
+model,display_name,model_path
+random_forest,Random forest regressor,../results/model_fitting/Nd_3plus/models/random_forest.joblib
+gradient_boosting,Gradient boosting regressor,../results/model_fitting/Nd_3plus/models/gradient_boosting.joblib
+lasso,Lasso regression,../results/model_fitting/Nd_3plus/models/lasso.joblib
+ridge,Ridge regression,../results/model_fitting/Nd_3plus/models/ridge.joblib
+mlp,Multilayer perceptron,../results/model_fitting/Nd_3plus/models/mlp.joblib

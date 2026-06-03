@@ -1,0 +1,137 @@
+model,display_name,feature,raw_value,absolute_value,normalized_importance
+random_forest,Random forest regressor,PEOE_VSA2(m),0.5241360032358118,0.5241360032358118,0.5241360032358119
+random_forest,Random forest regressor,PEOE_VSA14(m),0.1168410376513479,0.1168410376513479,0.11684103765134791
+random_forest,Random forest regressor,TPSA(m),0.0496735929015741,0.0496735929015741,0.04967359290157411
+random_forest,Random forest regressor,NumRotatableBonds(m),0.04525023744508807,0.04525023744508807,0.045250237445088076
+random_forest,Random forest regressor,VSA_EState2(m),0.035648984569975894,0.035648984569975894,0.0356489845699759
+random_forest,Random forest regressor,Temperature (K),0.02952270273552898,0.02952270273552898,0.029522702735528983
+random_forest,Random forest regressor,SlogP_VSA2(m),0.025862308874218136,0.025862308874218136,0.02586230887421814
+random_forest,Random forest regressor,NumValenceElectrons(m),0.02154518562383169,0.02154518562383169,0.021545185623831693
+random_forest,Random forest regressor,SMR_VSA3(m),0.02043255280749222,0.02043255280749222,0.020432552807492222
+random_forest,Random forest regressor,SMR_VSA1(m),0.020022934016113162,0.020022934016113162,0.020022934016113166
+random_forest,Random forest regressor,Chi0(m),0.018373810108309692,0.018373810108309692,0.018373810108309695
+random_forest,Random forest regressor,Concentration (M),0.018175382555791025,0.018175382555791025,0.018175382555791028
+random_forest,Random forest regressor,Kappa2(m),0.017631789162460994,0.017631789162460994,0.017631789162460998
+random_forest,Random forest regressor,NumHAcceptors(m),0.011585131851786157,0.011585131851786157,0.01158513185178616
+random_forest,Random forest regressor,Density_medium (kg/m3),0.010821655323993403,0.010821655323993403,0.010821655323993404
+random_forest,Random forest regressor,EState_VSA10(m),0.009030371688794189,0.009030371688794189,0.00903037168879419
+random_forest,Random forest regressor,Molar Mass_medium (g/mol),0.008465944491612323,0.008465944491612323,0.008465944491612325
+random_forest,Random forest regressor,NumHeteroatoms(m),0.007589717361590898,0.007589717361590898,0.007589717361590899
+random_forest,Random forest regressor,Melting Point_medium (K),0.005977874224870773,0.005977874224870773,0.005977874224870774
+random_forest,Random forest regressor,NOCount(m),0.0034127833698085037,0.0034127833698085037,0.003412783369808504
+random_forest,Random forest regressor,Atomic Number_metal,0.0,0.0,0.0
+random_forest,Random forest regressor,Outer shell electrons_metal,0.0,0.0,0.0
+random_forest,Random forest regressor,Melting Point_metal  (K),0.0,0.0,0.0
+random_forest,Random forest regressor,Boiling Point_metal  (K),0.0,0.0,0.0
+random_forest,Random forest regressor,First IE_metal  (kJ/mol),0.0,0.0,0.0
+random_forest,Random forest regressor,Density_metal  (g/cm3),0.0,0.0,0.0
+random_forest,Random forest regressor,Covalent Radius_metal,0.0,0.0,0.0
+random_forest,Random forest regressor,Atomic Radius_metal,0.0,0.0,0.0
+random_forest,Random forest regressor,Electron Affinity_metal  (kJ/mol),0.0,0.0,0.0
+random_forest,Random forest regressor,Third IE_metal  (kJ/mol),0.0,0.0,0.0
+random_forest,Random forest regressor,Second IE_metal  (kJ/mol),0.0,0.0,0.0
+random_forest,Random forest regressor,Standard Entropy_metal (J/mol.K),0.0,0.0,0.0
+random_forest,Random forest regressor,Pauling EN_metal,0.0,0.0,0.0
+random_forest,Random forest regressor,Ionic Radius_metal,0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,PEOE_VSA2(m),0.569364787529338,0.569364787529338,0.5693647875293378
+gradient_boosting,Gradient boosting regressor,PEOE_VSA14(m),0.14198911403635373,0.14198911403635373,0.1419891140363537
+gradient_boosting,Gradient boosting regressor,TPSA(m),0.05879686991783491,0.05879686991783491,0.05879686991783489
+gradient_boosting,Gradient boosting regressor,NumRotatableBonds(m),0.04699264985286228,0.04699264985286228,0.046992649852862264
+gradient_boosting,Gradient boosting regressor,Temperature (K),0.03084263165428449,0.03084263165428449,0.030842631654284483
+gradient_boosting,Gradient boosting regressor,Concentration (M),0.022860755548853456,0.022860755548853456,0.022860755548853452
+gradient_boosting,Gradient boosting regressor,SlogP_VSA2(m),0.017527949274721007,0.017527949274721007,0.017527949274721004
+gradient_boosting,Gradient boosting regressor,NumValenceElectrons(m),0.016144896784664957,0.016144896784664957,0.016144896784664953
+gradient_boosting,Gradient boosting regressor,NumHeteroatoms(m),0.013824273177885676,0.013824273177885676,0.013824273177885673
+gradient_boosting,Gradient boosting regressor,SMR_VSA3(m),0.013573212597032844,0.013573212597032844,0.013573212597032841
+gradient_boosting,Gradient boosting regressor,VSA_EState2(m),0.013418558890304069,0.013418558890304069,0.013418558890304065
+gradient_boosting,Gradient boosting regressor,Kappa2(m),0.010929219898788716,0.010929219898788716,0.010929219898788714
+gradient_boosting,Gradient boosting regressor,Density_medium (kg/m3),0.00802427823486191,0.00802427823486191,0.008024278234861909
+gradient_boosting,Gradient boosting regressor,SMR_VSA1(m),0.007206756384441519,0.007206756384441519,0.007206756384441518
+gradient_boosting,Gradient boosting regressor,NumHAcceptors(m),0.006970554348489044,0.006970554348489044,0.006970554348489043
+gradient_boosting,Gradient boosting regressor,Chi0(m),0.006675309932696347,0.006675309932696347,0.0066753099326963454
+gradient_boosting,Gradient boosting regressor,Molar Mass_medium (g/mol),0.0055779899836744425,0.0055779899836744425,0.005577989983674442
+gradient_boosting,Gradient boosting regressor,Melting Point_medium (K),0.0034671522523244897,0.0034671522523244897,0.003467152252324489
+gradient_boosting,Gradient boosting regressor,EState_VSA10(m),0.0034210836464305472,0.0034210836464305472,0.0034210836464305464
+gradient_boosting,Gradient boosting regressor,NOCount(m),0.002391956054157798,0.002391956054157798,0.0023919560541577974
+gradient_boosting,Gradient boosting regressor,Atomic Number_metal,0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Outer shell electrons_metal,0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Melting Point_metal  (K),0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Boiling Point_metal  (K),0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,First IE_metal  (kJ/mol),0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Density_metal  (g/cm3),0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Covalent Radius_metal,0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Atomic Radius_metal,0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Electron Affinity_metal  (kJ/mol),0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Third IE_metal  (kJ/mol),0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Second IE_metal  (kJ/mol),0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Standard Entropy_metal (J/mol.K),0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Pauling EN_metal,0.0,0.0,0.0
+gradient_boosting,Gradient boosting regressor,Ionic Radius_metal,0.0,0.0,0.0
+lasso,Lasso regression,Chi0(m),-4.94622333729807,4.94622333729807,0.15847702202467598
+lasso,Lasso regression,NumValenceElectrons(m),4.680712672817486,4.680712672817486,0.14997005892307427
+lasso,Lasso regression,NOCount(m),-4.548003894325512,4.548003894325512,0.14571806895461706
+lasso,Lasso regression,PEOE_VSA2(m),3.526050012704608,3.526050012704608,0.11297466115404865
+lasso,Lasso regression,TPSA(m),2.2115939147650043,2.2115939147650043,0.07085948078747902
+lasso,Lasso regression,Molar Mass_medium (g/mol),-1.311864263080686,1.311864263080686,0.04203213796390987
+lasso,Lasso regression,PEOE_VSA14(m),1.2735890299448869,1.2735890299448869,0.04080579929074047
+lasso,Lasso regression,Melting Point_medium (K),-1.086640875444392,1.086640875444392,0.03481597942659508
+lasso,Lasso regression,SMR_VSA3(m),1.0771465567434606,1.0771465567434606,0.034511781404938685
+lasso,Lasso regression,SMR_VSA1(m),1.0372814991588877,1.0372814991588877,0.03323450474797793
+lasso,Lasso regression,EState_VSA10(m),-0.9919909256247303,0.9919909256247303,0.031783394531146585
+lasso,Lasso regression,VSA_EState2(m),-0.938996885423002,0.938996885423002,0.03008546520132915
+lasso,Lasso regression,NumRotatableBonds(m),0.7458151667001705,0.7458151667001705,0.023895921906358034
+lasso,Lasso regression,NumHAcceptors(m),0.7109127539892576,0.7109127539892576,0.022777648417534303
+lasso,Lasso regression,Density_medium (kg/m3),-0.6798244021867219,0.6798244021867219,0.02178157746049324
+lasso,Lasso regression,Kappa2(m),0.5721683711509814,0.5721683711509814,0.018332277653731986
+lasso,Lasso regression,Concentration (M),-0.4787457337111832,0.4787457337111832,0.015339015853459577
+lasso,Lasso regression,Temperature (K),-0.161378245292249,0.161378245292249,0.005170559837165339
+lasso,Lasso regression,NumHeteroatoms(m),0.14928957133458676,0.14928957133458676,0.00478323865928984
+lasso,Lasso regression,SlogP_VSA2(m),0.08275297632525472,0.08275297632525472,0.0026514058014349175
+lasso,Lasso regression,Atomic Number_metal,0.0,0.0,0.0
+lasso,Lasso regression,Outer shell electrons_metal,0.0,0.0,0.0
+lasso,Lasso regression,Melting Point_metal  (K),0.0,0.0,0.0
+lasso,Lasso regression,Boiling Point_metal  (K),0.0,0.0,0.0
+lasso,Lasso regression,First IE_metal  (kJ/mol),0.0,0.0,0.0
+lasso,Lasso regression,Density_metal  (g/cm3),0.0,0.0,0.0
+lasso,Lasso regression,Covalent Radius_metal,0.0,0.0,0.0
+lasso,Lasso regression,Atomic Radius_metal,0.0,0.0,0.0
+lasso,Lasso regression,Electron Affinity_metal  (kJ/mol),0.0,0.0,0.0
+lasso,Lasso regression,Third IE_metal  (kJ/mol),0.0,0.0,0.0
+lasso,Lasso regression,Second IE_metal  (kJ/mol),0.0,0.0,0.0
+lasso,Lasso regression,Standard Entropy_metal (J/mol.K),0.0,0.0,0.0
+lasso,Lasso regression,Pauling EN_metal,0.0,0.0,0.0
+lasso,Lasso regression,Ionic Radius_metal,0.0,0.0,0.0
+ridge,Ridge regression,PEOE_VSA2(m),3.3862218345241017,3.3862218345241017,0.14094434951422458
+ridge,Ridge regression,Chi0(m),-3.1309909177129387,3.1309909177129387,0.13032090034172691
+ridge,Ridge regression,NumValenceElectrons(m),3.007620702059387,3.007620702059387,0.12518587504083337
+ridge,Ridge regression,NOCount(m),-2.9057109878076894,2.9057109878076894,0.12094409789618725
+ridge,Ridge regression,TPSA(m),1.4599329198896511,1.4599329198896511,0.06076663189349736
+ridge,Ridge regression,Molar Mass_medium (g/mol),-1.304780899143741,1.304780899143741,0.05430875591594107
+ridge,Ridge regression,PEOE_VSA14(m),1.2398233641075158,1.2398233641075158,0.0516050353774977
+ridge,Ridge regression,Melting Point_medium (K),-1.0903300981505009,1.0903300981505009,0.04538269314573731
+ridge,Ridge regression,VSA_EState2(m),-0.9195845877180457,0.9195845877180457,0.03827577101352007
+ridge,Ridge regression,NumHAcceptors(m),0.9004489554646263,0.9004489554646263,0.037479290637366366
+ridge,Ridge regression,SMR_VSA3(m),0.859308305926076,0.859308305926076,0.03576689777855103
+ridge,Ridge regression,EState_VSA10(m),-0.8165303825512158,0.8165303825512158,0.03398635684583143
+ridge,Ridge regression,NumRotatableBonds(m),0.763294354107944,0.763294354107944,0.0317705193235646
+ridge,Ridge regression,Density_medium (kg/m3),-0.6307407561342698,0.6307407561342698,0.026253255081839226
+ridge,Ridge regression,Concentration (M),-0.46217116673836134,0.46217116673836134,0.019236901078373492
+ridge,Ridge regression,Kappa2(m),0.4126076867219204,0.4126076867219204,0.01717392564677118
+ridge,Ridge regression,SMR_VSA1(m),0.2781463517223447,0.2781463517223447,0.011577255870707062
+ridge,Ridge regression,NumHeteroatoms(m),0.17965332019367558,0.17965332019367558,0.007477690945881852
+ridge,Ridge regression,Temperature (K),-0.14094107351227528,0.14094107351227528,0.005866375239652881
+ridge,Ridge regression,SlogP_VSA2(m),-0.13640141244660436,0.13640141244660436,0.005677421412295034
+ridge,Ridge regression,Atomic Number_metal,0.0,0.0,0.0
+ridge,Ridge regression,Outer shell electrons_metal,0.0,0.0,0.0
+ridge,Ridge regression,Melting Point_metal  (K),0.0,0.0,0.0
+ridge,Ridge regression,Boiling Point_metal  (K),0.0,0.0,0.0
+ridge,Ridge regression,First IE_metal  (kJ/mol),0.0,0.0,0.0
+ridge,Ridge regression,Density_metal  (g/cm3),0.0,0.0,0.0
+ridge,Ridge regression,Covalent Radius_metal,0.0,0.0,0.0
+ridge,Ridge regression,Atomic Radius_metal,0.0,0.0,0.0
+ridge,Ridge regression,Electron Affinity_metal  (kJ/mol),0.0,0.0,0.0
+ridge,Ridge regression,Third IE_metal  (kJ/mol),0.0,0.0,0.0
+ridge,Ridge regression,Second IE_metal  (kJ/mol),0.0,0.0,0.0
+ridge,Ridge regression,Standard Entropy_metal (J/mol.K),0.0,0.0,0.0
+ridge,Ridge regression,Pauling EN_metal,0.0,0.0,0.0
+ridge,Ridge regression,Ionic Radius_metal,0.0,0.0,0.0

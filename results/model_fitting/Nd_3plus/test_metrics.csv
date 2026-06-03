@@ -1,0 +1,6 @@
+split,model,display_name,mse,residual_variance
+test,random_forest,Random forest regressor,3.089982723970999,3.08395622635452
+test,gradient_boosting,Gradient boosting regressor,3.97880043893687,3.9414422036326524
+test,mlp,Multilayer perceptron,5.045754041880476,5.0370873610592914
+test,lasso,Lasso regression,6.785352817881827,6.785297166099905
+test,ridge,Ridge regression,6.970411443920643,6.970381642205356

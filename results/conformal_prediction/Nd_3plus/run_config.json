@@ -1,0 +1,58 @@
+{
+  "alpha": 0.1,
+  "base_models": [
+    "random_forest",
+    "gradient_boosting"
+  ],
+  "feature_columns": [
+    "PEOE_VSA2(m)",
+    "NumRotatableBonds(m)",
+    "PEOE_VSA14(m)",
+    "NumHAcceptors(m)",
+    "NOCount(m)",
+    "SlogP_VSA2(m)",
+    "VSA_EState2(m)",
+    "NumHeteroatoms(m)",
+    "TPSA(m)",
+    "Kappa2(m)",
+    "SMR_VSA3(m)",
+    "SMR_VSA1(m)",
+    "NumValenceElectrons(m)",
+    "Chi0(m)",
+    "EState_VSA10(m)",
+    "Atomic Number_metal",
+    "Outer shell electrons_metal",
+    "Melting Point_metal  (K)",
+    "Boiling Point_metal  (K)",
+    "Density_metal  (g/cm3)",
+    "First IE_metal  (kJ/mol)",
+    "Second IE_metal  (kJ/mol)",
+    "Third IE_metal  (kJ/mol)",
+    "Electron Affinity_metal  (kJ/mol)",
+    "Atomic Radius_metal",
+    "Covalent Radius_metal",
+    "Pauling EN_metal",
+    "Ionic Radius_metal",
+    "Standard Entropy_metal (J/mol.K)",
+    "Density_medium (kg/m3)",
+    "Molar Mass_medium (g/mol)",
+    "Melting Point_medium (K)",
+    "Temperature (K)",
+    "Concentration (M)"
+  ],
+  "global_calibration_splits": [
+    "calibration_global",
+    "calibration_local"
+  ],
+  "local_calibration_split": "calibration_local",
+  "local_scale_model": {
+    "name": "RandomForestRegressor",
+    "parameters": {
+      "min_samples_leaf": 5,
+      "n_estimators": 200,
+      "n_jobs": -1,
+      "random_state": 42
+    }
+  },
+  "test_split": "test"
+}
